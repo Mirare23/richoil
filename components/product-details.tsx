@@ -200,7 +200,7 @@ export default function ProductDetails({
       </div>
       <Button
         onClick={() => setIsBuyDialogOpen(true)}
-        className="md:hidden fixed bottom-0 w-full bg-primary hover:bg-primary/90 text-primary-foreground h-20 left-0 rounded-none z-50 border-t"
+        className="md:hidden fixed bottom-5 left-2 right-2 h-14 bg-primary hover:bg-primary/90 text-primary-foreground z-50 border-t rounded-md shadow-lg"
         size="lg"
       >
         Buy Now
