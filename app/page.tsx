@@ -7,6 +7,7 @@ import Benefits from "@/components/benefits";
 import Testimonials from "@/components/testimonials";
 import Newsletter from "@/components/newsletter";
 import Footer from "@/components/footer";
+import LocationSection from "@/components/location";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <FeaturedProducts />
       <Benefits />
       <Testimonials />
+      <LocationSection />
       <Footer />
     </div>
   );

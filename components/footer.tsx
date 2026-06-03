@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { Facebook, Instagram, Twitter } from "lucide-react";
+import Image from "next/image";
 
 export default function Footer() {
   return (
@@ -11,15 +12,6 @@ export default function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           {/* Brand */}
           <div className="flex flex-col gap-4">
-            <Link href="/" className="flex items-center gap-2 w-fit">
-              <div className="h-10 w-10 rounded-full bg-primary-foreground/20 flex items-center justify-center">
-                <span className="font-bold text-lg">R</span>
-              </div>
-              <div className="flex flex-col leading-none">
-                <span className="font-bold">Rich Oil</span>
-                <span className="text-xs opacity-80">Indonesia</span>
-              </div>
-            </Link>
             <p className="text-sm opacity-80">
               Premium natural oils sourced from the heart of Bali.
             </p>

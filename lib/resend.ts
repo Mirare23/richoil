@@ -13,7 +13,7 @@ export async function SendEmailSubmission(
     const send = resend.emails
       .send({
         from: "bot@bot.richoil.id",
-        to: "richoilweb@gmail.com",
+        to: "richoilindo@gmail.com",
         subject: "New Submission from Contact Form",
         html:
           "<div style='font-family: Arial, sans-serif; line-height: 1.5; color: #333;'>\n" +

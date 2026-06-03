@@ -42,7 +42,7 @@ export default function ProductDetails({
         {/* Left - Product Image */}
         <div className="flex flex-col gap-6">
           <img
-            className="h-96 sm:h-[500px] object-cover rounded-2xl bg-white  overflow-hidden"
+            className="h-96 sm:h-[500px] object-contain rounded-2xl bg-white  overflow-hidden"
             src={product.image[ImgIndex]}
             alt={product.name}
           />
@@ -111,12 +111,6 @@ export default function ProductDetails({
           {/* Wishlist & Share */}
           {/* Trust Badges */}
           <div className="grid grid-cols-2 gap-3 pt-4 border-t border-border">
-            <div className="text-sm">
-              <p className="font-semibold text-foreground">Free Shipping</p>
-              <p className="text-xs text-muted-foreground">
-                On orders over $50
-              </p>
-            </div>
             <div className="text-sm">
               <p className="font-semibold text-foreground">100% Organic</p>
               <p className="text-xs text-muted-foreground">

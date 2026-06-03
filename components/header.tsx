@@ -17,8 +17,8 @@ export default function Header() {
             <Image
               src="/assets/images/logo.png"
               alt="Rich Oil Logo"
-              width={100}
-              height={100}
+              width={150}
+              height={150}
             />
           </Link>
 

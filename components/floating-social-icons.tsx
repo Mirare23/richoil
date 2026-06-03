@@ -12,7 +12,7 @@ export default function FloatingSocialIcons() {
   const socialLinks = [
     {
       icon: MessageCircle,
-      href: "https://wa.me/1234567890",
+      href: "http://wa.me/6281322777725",
       label: "WhatsApp",
       bgColor: "bg-green-500 hover:bg-green-600",
     },
@@ -24,15 +24,9 @@ export default function FloatingSocialIcons() {
     },
     {
       icon: Mail,
-      href: "mailto:contact@richojlindonesia.com",
+      href: "mailto:richoilindo@gmail.com",
       label: "Email",
       bgColor: "bg-accent hover:bg-accent/90",
-    },
-    {
-      icon: Phone,
-      href: "tel:+62361234567",
-      label: "Phone",
-      bgColor: "bg-primary hover:bg-primary/90",
     },
   ];
 

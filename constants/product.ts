@@ -11,7 +11,7 @@ export interface Product {
   ingredients: string[];
   usage: string;
   specifications: {
-    volume: string;
+    volume: string | null;
     origin: string;
     certification: string;
     shelf_life: string;
@@ -37,9 +37,9 @@ export const productDetails: Product[] = [
     ],
     ingredients: ["100% Pure Olives", "Cold-pressed"],
     usage:
-      "Great for salads, pastas, roasted dishes, or as a topical application for hair/skin.",
+      "Great for salads, pastas, roasted dishes, or as a topical application for hair/skin. Please note that olive oil has a lower smoke point, so it's best used for low to medium-heat cooking or as a finishing oil.",
     specifications: {
-      volume: "N/A",
+      volume: "500 ml",
       origin: "Indonesia",
       certification: "BPOM: 012219000900029",
       shelf_life: "12-24 months",
@@ -334,7 +334,7 @@ export const productDetails: Product[] = [
     ingredients: ["100% Pure Chia Seeds", "Cold-pressed"],
     usage: "Use a few drops daily to enhance meals or as a health supplement.",
     specifications: {
-      volume: "N/A",
+      volume: "250 ml",
       origin: "Indonesia",
       certification: "BPOM: 012219000400029",
       shelf_life: "12-24 months",
@@ -370,7 +370,7 @@ export const productDetails: Product[] = [
     ],
     usage: "Steep in hot water for a relaxing beverage anytime of day.",
     specifications: {
-      volume: "N/A",
+      volume: null,
       origin: "Indonesia",
       certification: "Natural Blend",
       shelf_life: "12-24 months",
@@ -399,7 +399,7 @@ export const productDetails: Product[] = [
     usage:
       "Use as a natural sweetener for tea, food, or take directly for health.",
     specifications: {
-      volume: "N/A",
+      volume: null,
       origin: "Indonesia",
       certification: "100% Natural",
       shelf_life: "Indefinite",
@@ -427,7 +427,7 @@ export const productDetails: Product[] = [
     ingredients: ["Clarified Butter"],
     usage: "Ideal for cooking, baking, or mixing into warm beverages.",
     specifications: {
-      volume: "N/A",
+      volume: null,
       origin: "Indonesia",
       certification: "100% Natural",
       shelf_life: "12-24 months",

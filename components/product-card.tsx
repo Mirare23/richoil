@@ -19,6 +19,9 @@ const ProductCard = ({ product }: { product: Product }) => {
           {/* Product Info */}
           <h3 className="font-semibold text-foreground mb-1 line-clamp-2">
             {product.name}
+            {product.specifications?.volume
+              ? ` - ${product.specifications.volume}`
+              : null}
           </h3>
           <p className="text-sm text-muted-foreground mb-4 line-clamp-2">
             {product.description}

@@ -62,7 +62,7 @@ function ContactContent() {
                   <p className="text-muted-foreground ml-12">
                     Bali, Indonesia
                     <br />
-                    Jalan Raya Canggu
+                    Jalan Letda Regug no 14, Denpasar Timur, Bali
                   </p>
                 </div>
                 {/* Hours */}
@@ -77,8 +77,7 @@ function ContactContent() {
                   </div>
                   <div className="text-muted-foreground ml-12 space-y-1">
                     <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
-                    <p>Saturday: 10:00 AM - 4:00 PM</p>
-                    <p>Sunday: Closed</p>
+                    <p>Saturday - Sunday: 10:00 AM - 4:00 PM</p>
                   </div>
                 </div>
                 {/* Email */}
@@ -93,10 +92,10 @@ function ContactContent() {
                   </div>
                   <p className="text-muted-foreground ml-12">
                     <a
-                      href="mailto:contact@richoilindonesia.com"
+                      href="mailto:richoilindo@gmail.com"
                       className="hover:text-primary transition-colors"
                     >
-                      contact@richoilindonesia.com
+                      richoilindo@gmail.com
                     </a>
                   </p>
                 </div>
@@ -112,10 +111,10 @@ function ContactContent() {
                   </div>
                   <p className="text-muted-foreground ml-12">
                     <a
-                      href="tel:+62361234567"
+                      href="http://wa.me/6281322777725"
                       className="hover:text-primary transition-colors"
                     >
-                      +62 (361) 234-567
+                      +62 8132-2777-725
                     </a>
                   </p>
                 </div>
