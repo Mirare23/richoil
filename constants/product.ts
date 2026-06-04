@@ -29,7 +29,7 @@ export const productDetails: Product[] = [
     image: ["/assets/images/olive-oil/1.jpg", "/assets/images/olive-oil/2.jpg"],
     category: "Cold-Pressed Oil",
     description:
-      "Olive oil is a natural oil made from pressed olives, rich in healthy fats and antioxidants. It adds smooth flavor to salads, pastas, and roasted dishes, and is also valued for its benefits in skin and hair care.",
+      "RichOil's Olive Oil is a natural oil made from pressed olives, rich in healthy fats and antioxidants. It adds smooth flavor to salads, pastas, and roasted dishes, and is also valued for its benefits in skin and hair care.",
     benefits: [
       "Rich in healthy fats and antioxidants",
       "Adds smooth flavor to dishes",
@@ -59,7 +59,7 @@ export const productDetails: Product[] = [
     ],
     category: "Cold-Pressed Oil",
     description:
-      "Avocado seed oil has a mild, buttery flavor, making it a versatile option for various culinary applications. It has a high smoke point, making it suitable for high-heat cooking methods such as sautéing, roasting, and stir-frying. It can also be used in salad dressings, marinades, and dips, adding a rich and smooth texture to dishes.",
+      "This Avocado seed oil has a mild, buttery flavor, making it a versatile option for various culinary applications. It has a high smoke point, making it suitable for high-heat cooking methods such as sautéing, roasting, and stir-frying. It can also be used in salad dressings, marinades, and dips, adding a rich and smooth texture to dishes.",
     benefits: [
       "High smoke point for high-heat cooking",
       "Mild, buttery flavor",
@@ -88,7 +88,7 @@ export const productDetails: Product[] = [
     ],
     category: "Cold-Pressed Oil",
     description:
-      "Derived from the nuts of the walnut tree, it is rich in essential fatty acids, antioxidants, and vitamins, making it a valuable addition to a healthy lifestyle.",
+      "Derived from the nuts of the walnut tree, RichOil's Walnut Oil is rich in essential fatty acids, antioxidants, and vitamins.",
     benefits: [
       "Rich in essential fatty acids",
       "High in antioxidants",
@@ -117,7 +117,7 @@ export const productDetails: Product[] = [
     ],
     category: "Cold-Pressed Oil",
     description:
-      "Has a distinct nutty flavor, making it a popular choice for salad dressings, dips, and drizzles. It is known for its rich content of essential fatty acids, vitamins, and antioxidants, making it a valuable addition to a balanced diet.",
+      "RichOil's Pumpkin Seed Oil has a distinct nutty flavor, making it a popular choice for salad dressings, dips, and drizzles. Known for its rich content of essential fatty acids, vitamins, and antioxidants, it is a valuable addition to a balanced diet. ",
     benefits: [
       "Rich in essential fatty acids",
       "High in vitamins and antioxidants",
@@ -142,7 +142,7 @@ export const productDetails: Product[] = [
     image: ["/assets/images/flax-seed/1.png", "/assets/images/flax-seed/2.jpg"],
     category: "Cold-Pressed Oil",
     description:
-      "A highly nutritious oil known for its fatty acids that have been linked to heart health, brain function, and inflammation reduction. It is often found in skincare products due to its moisturizing properties, helping to nourish and hydrate the skin.",
+      "Known for its fatty acids that have been linked to heart health, brain function, and inflammation reduction. RichOil's Flax Seed Oil is also often found in skincare routines due to its moisturizing properties, helping to nourish and hydrate the skin.",
     benefits: [
       "Linked to heart health and brain function",
       "Reduces inflammation",
@@ -171,7 +171,7 @@ export const productDetails: Product[] = [
     ],
     category: "Cold-Pressed Oil",
     description:
-      "It has been used for centuries in traditional medicine and culinary practices for its unique flavor and potential health benefits. Enjoy its unique flavor and explore its culinary versatility while reaping the potential advantages it has to offer.",
+      "This Black Sesame Seed Oil has been used for centuries in traditional medicine and culinary practices for its unique flavor and potential health benefits. Enjoy its unique flavor and explore its culinary versatility with RichOil.",
     benefits: [
       "Used in traditional medicine",
       "Offers unique culinary flavor",
@@ -201,7 +201,7 @@ export const productDetails: Product[] = [
     ],
     category: "Cold-Pressed Oil",
     description:
-      "This oil has gained popularity for its potential effects on overall well-being. It may support digestive health, promote healthy skin and hair, and help maintain a balanced immune system. Some studies suggest that black cumin seed oil may also have positive effects on respiratory health and cardiovascular function.",
+      "RichOil's Black Cumin Seed Oil has gained immense popularity for its potential effects on overall well-being. It may support digestive health, promote healthy skin and hair, and help maintain a balanced immune system. Studies also suggest positive effects on respiratory health and cardiovascular function.",
     benefits: [
       "Supports digestive health",
       "Promotes healthy skin and hair",
@@ -233,7 +233,7 @@ export const productDetails: Product[] = [
     ],
     category: "Cold-Pressed Oil",
     description:
-      "It is a versatile oil that is commonly used in cooking, particularly in Indian, Pakistani, and Bengali cuisines. The oil is rich in monounsaturated and polyunsaturated fats, as well as omega-3 and omega-6 fatty acids. These fatty acids are beneficial for heart health and may help lower cholesterol levels.",
+      "RichOil's Mustard Seed Oil is a versatile oil commonly used in cooking, particularly in Indian, Pakistani, and Bengali cuisines. This oil is rich in monounsaturated and polyunsaturated fats, as well as omega-3 and omega-6 fatty acids, supporting heart health and lowering cholesterol.",
     benefits: [
       "Rich in monounsaturated and polyunsaturated fats",
       "High in Omega-3 and Omega-6",
@@ -263,7 +263,7 @@ export const productDetails: Product[] = [
     ],
     category: "Cold-Pressed Oil",
     description:
-      "Milkthistle Oil is a high-quality, cold-pressed oil extracted from the seeds of the Silybum marianum plant. Packed with silymarin, essential fatty acids, and powerful antioxidants, this oil is known for its ability to support liver health, boost skin hydration, and promote overall well-being.",
+      "RichOil's Milk Thistle Oil is a high-quality, cold-pressed oil extracted from the seeds of the Silybum marianum plant. Packed with silymarin, essential fatty acids, and powerful antioxidants, this oil is known for its ability to support liver health, boost skin hydration, and promote overall well-being.",
     benefits: [
       "Packed with silymarin",
       "Supports liver health",
@@ -296,7 +296,7 @@ export const productDetails: Product[] = [
     ],
     category: "Cold-Pressed Oil",
     description:
-      "Sunflower seed oil is a good source of vitamin E, an antioxidant that helps protect the body's cells from damage caused by free radicals. Additionally, it contains small amounts of other essential nutrients like vitamin K and vitamin B6.",
+      "RichOil's Sunflower Seed Oil is a good source of vitamin E, an antioxidant that helps protect the body's cells from damage caused by free radicals. Additionally, it contains essential nutrients like vitamin K and vitamin B6.",
     benefits: [
       "Rich source of Vitamin E",
       "Protects cells from free radical damage",
@@ -325,7 +325,7 @@ export const productDetails: Product[] = [
     ],
     category: "Cold-Pressed Oil",
     description:
-      "Chia Seed Oil is a light, golden oil carefully cold-pressed from the tiny yet powerful chia seeds. Known as a superfood, chia is naturally rich in Alpha-Linolenic Acid (ALA), an essential Omega-3 fatty acid, along with powerful antioxidants, vitamins, and minerals that the body needs but cannot produce on its own. Its mild, nutty flavor makes it a versatile choice, perfect for enhancing both your health and your daily meals. A few drops each day can help nourish your body inside and out.",
+      "RichOil's Chia Seed Oil is a light, golden oil carefully cold-pressed from tiny yet powerful chia seeds. Known as a superfood, chia is naturally rich in Alpha-Linolenic Acid (ALA), an essential Omega-3 fatty acid. A few drops each day can help nourish your body inside and out.",
     benefits: [
       "Rich in Alpha-Linolenic Acid (ALA) and Omega-3",
       "Contains powerful antioxidants, vitamins, and minerals",
@@ -341,7 +341,6 @@ export const productDetails: Product[] = [
       storage: "Room temperature",
     },
   },
-
   {
     name: "Mountain Herbal Tea",
     slug: "mountain-herbal-tea",
@@ -354,7 +353,7 @@ export const productDetails: Product[] = [
     ],
     category: "Herbal Tea",
     description:
-      "Experience the natural warmth and freshness of our Mountain Herbal Tea. Made from a premium blend of hand-selected ingredients including Ivan tea (fireweed), currant leaves, mint, pear, blackcurrants, and apple—this soothing infusion offers a gentle taste and calming aroma. Perfect for relaxing moments, anytime of day.",
+      "Experience the natural warmth and freshness of RichOil's Mountain Herbal Tea. This premium blend is made from hand-selected ingredients including Ivan tea (fireweed), currant leaves, mint, pear, blackcurrants, and apple—offering a gentle taste and calming aroma.",
     benefits: [
       "Soothing infusion with a calming aroma",
       "Provides natural warmth and freshness",
@@ -389,7 +388,7 @@ export const productDetails: Product[] = [
     ],
     category: "Natural Honey",
     description:
-      "Our Forest Honey is a 100% natural, unprocessed honey harvested from wild bee hives deep within pristine tropical forests. Collected by traditional foragers using sustainable methods, this honey captures the rich biodiversity of native flowers and medicinal plants, resulting in a bold, earthy flavor and dark amber color. No added sugar, no artificial ingredients—just nature's purest nectar.",
+      "RichOil's Forest Honey is a 100% natural, unprocessed honey harvested from wild bee hives deep within pristine tropical forests. It captures the rich biodiversity of native flowers and medicinal plants, resulting in a bold, earthy flavor and dark amber color. No added sugar or artificial ingredients.",
     benefits: [
       "100% natural and unprocessed",
       "Rich in biodiversity from medicinal plants",
@@ -418,7 +417,7 @@ export const productDetails: Product[] = [
     ],
     category: "Clarified Butter",
     description:
-      "Ghee butter has been cherished for centuries in Ayurvedic tradition as a source of strength, nourishment, and long life. Made by slowly clarifying butter, ghee is rich in healthy fats, fat-soluble vitamins (A, D, E, K), and antioxidants that help restore energy and promote overall vitality.",
+      "RichOil's Ghee butter has been cherished for centuries in Ayurvedic tradition as a source of strength, nourishment, and long life. Rich in healthy fats, fat-soluble vitamins (A, D, E, K), and antioxidants, this pure clarified butter helps restore energy and promote overall vitality.",
     benefits: [
       "Source of strength and nourishment",
       "Rich in healthy fats and fat-soluble vitamins (A, D, E, K)",
