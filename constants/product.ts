@@ -233,7 +233,7 @@ export const productDetails: Product[] = [
     image: [
       "/assets/images/black-oil/1.png",
       "/assets/images/black-oil/2.jpg",
-      "/assets/images/black-oil/3.jpg",
+      "/assets/images/black-oil/3.png",
     ],
     category: "Cold-Pressed Oil",
     description:

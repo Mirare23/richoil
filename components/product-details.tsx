@@ -17,6 +17,7 @@ import {
 import ContactForm from "@/components/contact-form";
 import BuyNowDialog from "@/components/buy-new-dialog";
 import ProductCard from "@/components/product-card";
+import Image from "next/image";
 
 interface ProductDetailsProps {
   product: Product;
@@ -41,7 +42,7 @@ export default function ProductDetails({
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-12">
         {/* Left - Product Image */}
         <div className="flex flex-col gap-6">
-          <img
+          <Image
             className="h-96 sm:h-[500px] object-contain rounded-2xl bg-white  overflow-hidden"
             src={product.image[ImgIndex]}
             alt={product.name}
