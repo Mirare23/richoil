@@ -45,6 +45,8 @@ export default function ProductDetails({
           <Image
             className="h-96 sm:h-[500px] object-contain rounded-2xl bg-white  overflow-hidden"
             src={product.image[ImgIndex]}
+            width={500}
+            height={500}
             alt={product.name}
           />
           <div className="flex gap-3">

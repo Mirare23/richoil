@@ -13,7 +13,7 @@ const ProductCard = ({ product }: { product: Product }) => {
           <img
             src={product.image[0]}
             alt={product.name}
-            className=" aspect-square h-80  mb-4 rounded-lg object-cover object-center"
+            className=" aspect-square h-80  mb-4 rounded-lg object-cover object-center [image-orientation:from-image]"
           />
 
           {/* Product Info */}
