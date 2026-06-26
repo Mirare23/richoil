@@ -23,7 +23,7 @@ export const productDetails: Product[] = [
   {
     name: "Olive Oil",
     slug: "olive-oil",
-    price: "Rp. 210.000",
+    price: "Rp. 220.000",
     rating: 4.9,
     reviews: 41,
     image: ["/assets/images/olive-oil/1.jpg", "/assets/images/olive-oil/2.jpg"],
@@ -50,7 +50,7 @@ export const productDetails: Product[] = [
   {
     name: "Avocado Oil",
     slug: "avocado-oil",
-    price: "Rp. 365.000",
+    price: "Rp. 380.000",
     rating: 5.0,
     reviews: 45,
     image: [
@@ -122,7 +122,7 @@ export const productDetails: Product[] = [
   {
     name: "Pumpkin Seed Oil",
     slug: "pumpkin-seed-oil",
-    price: "Rp. 219.000",
+    price: "Rp. 230.000",
     rating: 5.0,
     reviews: 18,
     image: [
@@ -159,7 +159,7 @@ export const productDetails: Product[] = [
   {
     name: "Flax Seed Oil",
     slug: "flax-seed-oil",
-    price: "Rp. 185.000",
+    price: "Rp. 190.000",
     rating: 4.9,
     reviews: 24,
     image: ["/assets/images/flax-seed/1.png", "/assets/images/flax-seed/2.jpg"],
@@ -465,7 +465,7 @@ export const productDetails: Product[] = [
   {
     name: "Ghee Butter",
     slug: "ghee-butter",
-    price: "Rp. 140.000",
+    price: "Rp. 160.000",
     rating: 4.9,
     reviews: 34,
     image: [
