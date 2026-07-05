@@ -20,9 +20,9 @@ const stores = [
   },
   {
     id: 3,
-    name: "Bokasi Natural Shop",
+    name: "Bali Buda",
     location: "All over Bali",
-    img: "/assets/images/list-stores/bokasi.png",
+    img: "/assets/images/list-stores/bali.jpg",
   },
   {
     id: 4,
@@ -38,9 +38,9 @@ const stores = [
   },
   {
     id: 6,
-    name: "Sayuri Supermarket",
-    location: "All over Bali",
-    img: "/assets/images/list-stores/sayuri.png",
+    name: "Bintang Supermarket",
+    location: "Ubud",
+    img: "/assets/images/list-stores/bintang.jpeg",
   },
 ];
 
